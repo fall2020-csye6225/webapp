@@ -5,7 +5,7 @@ on:
     branches:
     - master
 
-job:
+jobs:
   pr-check:
     runs-on: ubuntu-latest
     steps:
